@@ -1,0 +1,23 @@
+Project
+    Name of the project
+    Link to web (if relevant)
+    Build/version
+Environment
+    OS
+    Device
+
+ID
+Summary
+Description
+Steps to reproduce
+Actual result
+Expected result
+
+Severity
+Priority
+Status
+Author
+Date of creation
+Assigned to
+Attachments
+
