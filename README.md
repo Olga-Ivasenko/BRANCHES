@@ -30,11 +30,18 @@ git checkout main
 git branch -d MyBranchName
 ```
 ##### **2. Запушить все ветки на внешний репозиторий**
-***Importante: each branch is pushing separately from the choosen branch lokation***
+1) to push single branch:
 ```bash
 git checkout MyBranchName	// to switch to the branch we need to push
 git push -u origin MyBranchName
 ```
+
+2) to push all branches at once:
+```bash
+git checkout main
+git push -u origin -all
+```
+
 ##### **3. В ветке Bag Reports сделать текстовый документ со структурой баг репорта**
 ```bash
 git checkout BugReport
@@ -60,6 +67,7 @@ git merge BugReports
 git checkout main		//if not there
 git push -u origin MainDirectory
 ```
+
 ##### **7. В ветке CheckLists набросать структуру чек листа**
 ```bash
 git checkout CheckLists
