@@ -1,0 +1,16 @@
+Project
+	Name of the project
+	Link to web (if relevant)
+	Build / version
+Invironment
+	OS
+	Device
+Author
+Date of creation
+Date of execution
+
+Test ID 	//by request
+Test type 	//Smoke, CP, EXT etc
+Checking 	// test data in general, title of this checking
+Result 		// or ER if plan, or AR if under action
+Bug report link //from BTS if we use one document as summary
