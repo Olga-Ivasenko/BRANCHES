@@ -91,8 +91,9 @@ git push
 ![Create a request](https://github.com/Olga-Ivasenko/BRANCHES/blob/e56beced1b96413821644b33d087c7e9f8509d6c/pic6.jpg)
 - in new window make sure your merge does not have any conflicts, push `down arrow`near the `Merge pull request` green colored button
 ![Checking the conflicts](https://github.com/Olga-Ivasenko/BRANCHES/blob/e56beced1b96413821644b33d087c7e9f8509d6c/pic7.jpg)
-- choose needed action depending the result you need (total branch merge or adding different part merge). In our case it should be `Create a new merge`
-![Create a new merge](https://github.com/Olga-Ivasenko/BRANCHES/blob/e56beced1b96413821644b33d087c7e9f8509d6c/pic8.jpg)
+- choose needed action depending the result you need (total branch merge or adding different part merge). In our case it should be `Create a new merge` version
+
+![Create a merge](https://github.com/Olga-Ivasenko/BRANCHES/blob/e56beced1b96413821644b33d087c7e9f8509d6c/pic8.jpg)
 - click on green colored button `Confirm merge``
 ![Merge finish](https://github.com/Olga-Ivasenko/BRANCHES/blob/e56beced1b96413821644b33d087c7e9f8509d6c/pic9.jpg)
 
